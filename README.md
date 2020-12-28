@@ -7,6 +7,9 @@
 - [ ] [異常検知まとめスライド](https://www.slideshare.net/ssuser9eb780/anomaly-detection-survey)
 - [ ] [異常検知survery](https://www.slideshare.net/ssuser9eb780/anomaly-detection-survey-239043099)
 
+### Learning with Label Noise
+- [ ] [github上のまとめ](https://github.com/subeeshvasu/Awesome-Learning-with-Label-Noise)
+
 ### Explainable AI (XAI)
 - [ ] [2019年までのCAM(Class Activation Map)まとめ](https://qiita.com/bukei_student/items/698383a7118f95c12cce)
 - [ ] [機械学習モデルの判断根拠の説明](https://www.slideshare.net/SatoshiHara3/ss-126157179)
