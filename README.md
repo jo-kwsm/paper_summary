@@ -19,3 +19,7 @@
 ### Metric Learning
 - [X] [Metric Learning 入門](https://copypaste-ds.hatenablog.com/entry/2019/03/01/164155)
 - [ ] [Deep Metric Learning 入門](https://qiita.com/gesogeso/items/547079f967d9bbf9aca8)
+
+### Point Clouds
+- [ ] [点群DNN、3D DNN入門 -3DYOLO, VoxelNet, PointNet, FrustrumPointNet, Pointpillars](https://qiita.com/arutema47/items/cda262c61baa953a97e9)
+- [ ] [PointNet解説](https://qiita.com/KYoshiyama/items/802506ec397559725a1c)
