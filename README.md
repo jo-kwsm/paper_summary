@@ -25,7 +25,7 @@
 - [X] [PointNet解説](https://qiita.com/KYoshiyama/items/802506ec397559725a1c)
 
 ### Pose Estimation
-- [ ] [DarkPose](https://qiita.com/KYoshiyama/items/c850117248079deed86f)
+- [X] [DarkPose](https://qiita.com/KYoshiyama/items/c850117248079deed86f)
 - [ ] [WiPose](https://qiita.com/KYoshiyama/items/c850117248079deed86f)
 - [ ] [2019年版 姿勢推定モデルの最新動向について(翻訳)](https://qiita.com/KYoshiyama/items/9f5f5a13f957e138380b)
 - [X] [Cascaded Pyramid Network](https://qiita.com/KYoshiyama/items/e3ccb9cbf4e9c12be5cd)
